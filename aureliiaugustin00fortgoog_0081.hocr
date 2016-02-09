@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "aureliiaugustin00fortgoog_0081.png"; bbox 0 0 2950 5147; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 288 219 2542 472">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 288 219 2542 472">
+     <span class='ocr_line' id='line_1_1' title="bbox 1231 219 1614 284; baseline 0 -16"><span class='ocrx_word' id='word_1_1' title='bbox 1231 255 1315 268; x_wconf 61' lang='lat'><strong>.-</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1405 219 1440 284; x_wconf 78' lang='lat'><strong>7</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1532 257 1614 268; x_wconf 86' lang='grc'><strong>-.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 288 363 2542 472; baseline 0.003 -20"><span class='ocrx_word' id='word_1_4' title='bbox 288 389 654 472; x_wconf 82' lang='lat' dir='ltr'><strong>Augustino</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 722 385 1087 467; x_wconf 80' lang='lat' dir='ltr'><strong>philosopho</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1160 385 1383 448; x_wconf 80' lang='lat' dir='ltr'><strong>librum</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1439 363 1653 452; x_wconf 46' lang='lat' dir='ltr'><strong>&#39;edidit</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1724 387 1997 454; x_wconf 75' lang='lat' dir='ltr'><strong>viennae</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2060 388 2242 455; x_wconf 82' lang='lat'><strong>1654.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2308 395 2542 462; x_wconf 76' lang='lat' dir='ltr'><strong>Nostro</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 286 485 2640 687">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 286 485 2640 687">
+     <span class='ocr_line' id='line_1_3' title="bbox 286 485 2640 583; baseline 0.003 -23"><span class='ocrx_word' id='word_1_11' title='bbox 286 498 548 563; x_wconf 77' lang='lat' dir='ltr'><strong>saeculo</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 595 503 842 576; x_wconf 83' lang='lat' dir='ltr'><strong>praeter</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 903 496 1057 558; x_wconf 83' lang='lat' dir='ltr'><strong>alios</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1105 494 1501 583; x_wconf 81' lang='lat' dir='ltr'><strong>Guentherus</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1562 496 1930 563; x_wconf 79' lang='lat' dir='ltr'><strong>Viennensis</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1982 501 2287 572; x_wconf 10' lang='lat' dir='ltr'><strong>ration-em*</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 2335 503 2544 567; x_wconf 80' lang='lat' dir='ltr'><strong>habuit</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 2632 485 2640 488; x_wconf 46' lang='grc'><strong>”</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 288 603 2540 687; baseline 0.002 -18"><span class='ocrx_word' id='word_1_19' title='bbox 288 607 780 682; x_wconf 83' lang='lat' dir='ltr'><strong>coniunctionis,</strong></span> <span class='ocrx_word' id='word_1_20' title='bbox 825 622 982 683; x_wconf 81' lang='lat' dir='ltr'><strong>quae</strong></span> <span class='ocrx_word' id='word_1_21' title='bbox 1027 607 1190 666; x_wconf 80' lang='lat' dir='ltr'><strong>inter</strong></span> <span class='ocrx_word' id='word_1_22' title='bbox 1234 603 1651 687; x_wconf 83' lang='lat' dir='ltr'><strong>Augustinum</strong></span> <span class='ocrx_word' id='word_1_23' title='bbox 1688 605 2149 687; x_wconf 77' lang='lat' dir='ltr'><strong>cartesiumque</strong></span> <span class='ocrx_word' id='word_1_24' title='bbox 2192 610 2540 681; x_wconf 65' lang='lat' dir='ltr'><strong>intercedit.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
